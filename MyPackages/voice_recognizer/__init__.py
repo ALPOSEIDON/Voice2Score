@@ -1,0 +1,1 @@
+from .vosk_class import voskREC

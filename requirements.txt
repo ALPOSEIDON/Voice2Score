@@ -1,0 +1,7 @@
+PySide6
+vosk
+pyaudio
+pypinyin
+audioop
+collections
+Levenshtein
